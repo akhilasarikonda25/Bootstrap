@@ -1,2 +1,6 @@
-print("helloworld")
-print("hello india")
+num1=20
+num2=80
+sum=num1+num2
+print(sum)
+pi
+
